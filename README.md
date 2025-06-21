@@ -12,7 +12,9 @@
 
 ### 👨‍💻 About Me
 
-🚀 I'm an enthusiastic and driven techie always on the hunt for real-world challenges. With solid foundations in **Python**, **Java**, and **Web Development**, I thrive on solving problems and building cool stuff — whether it's **face recognition systems** or sleek personal websites.
+🎓 I'm a Computer Science Engineering student currently pursuing a B.Tech CSE (Industry Embedded Program in association with SAP) at Parul University.
+
+🚀 I'm an enthusiastic and driven techie always on the hunt for real-world challenges. With solid foundations in **Python**, **Java**, and **Web Development**, I thrive on solving problems and building cool stuff.
 
 💡 Currently exploring the world of **AI & Machine Learning** while leveling up my dev skills every day.
 
