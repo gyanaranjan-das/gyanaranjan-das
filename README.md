@@ -84,6 +84,15 @@
 
 ---
 
+### Hobbies & Interests
+
+- 💻🔧 Tech Experimentation
+- 📚 Reading
+- 🎬 Movies
+- 🎮 Gaming
+
+---
+
 ### 📫 Let’s Connect!
 
 - 💼 [GitHub](https://github.com/gyanaranjan-das)  
