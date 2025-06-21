@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gyanaranjan-das/gyanaranjan-das/main/ChatGPT Image Jun 21, 2025, 08_14_37 AM.png" alt="Gyanaranjan Das Banner" width="100%" />
+</p>
+
 ### Hi 👋, I'm Gyanaranjan Das
 
 📍 Vadodara, Gujarat, India  
