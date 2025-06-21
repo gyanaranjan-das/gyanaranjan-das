@@ -77,13 +77,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Gyanaranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyanaranjan-das&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanaranjan-das&layout=compact&theme=tokyonight)
-
----
-
 ### Hobbies & Interests
 
 - 💻🔧 Tech Experimentation
