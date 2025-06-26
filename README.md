@@ -26,16 +26,30 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `C++` `Java`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" />
+</p>
 
-**Web Development:**  
-`HTML` `CSS` `JavaScript` `React (basic)` `Node.js`
+### 🧠 AI / ML Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" alt="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" alt="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" height="40" width="40" alt="Scikit-Learn" />
+</p>
 
-**Data Science & ML:**  
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
 **Tools & Platforms:**  
-`Git` `GitHub` `Linux` `VS Code` `Google Colab`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" /> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" height="40" width="40" alt="Google Colab" /> 
 
 **Core Concepts:**  
 `OOP` `DBMS` `APIs` `DSA`
@@ -44,21 +58,11 @@
 
 ### 📚 Projects
 
-💡 **Smart Attendance System**  
-> Facial recognition-based attendance tool using **Python**, **OpenCV**, and **Flask**.  
-> Features live face detection, automated logging, and SQLite-backed data storage.
-
-🌐 **Portfolio Website**  
-> Built using **HTML**, **CSS**, **JavaScript**, and GitHub API.  
-> Fully responsive, SEO optimized, and dynamically loads your GitHub repos.
 
 ---
 
 ### 🌟 Experience
 
-🧠 **Project-Based Internships**  
-- 📌 *Smart Attendance System* (Jul 2023 – Aug 2023)  
-- 🌐 *Portfolio Website* (Jun 2023 – Jul 2023)
 
 🤝 **Rotaract Club – Parul University**  
 > Participated in community service, tech workshops, and awareness drives.
@@ -91,9 +95,13 @@
 
 ### 📫 Let’s Connect!
 
-- 💼 [GitHub](https://github.com/gyanaranjan-das)  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link-here) <!-- Replace this -->
-- 📧 dasgyanaranjan835@gmail.com
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:dasgyanaranjan835@gmail.com"><img src="https://img.shields.io/badge/email-@dasgyanaranjan835-blue?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gyanaranjan-das-b43420298/"><img src="https://img.shields.io/badge/linkedin-Profile-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/gyanaranjan-das"><img src="https://img.shields.io/github/followers/gyanaranjan-das?label=Follow&style=social" /></a>
+</p>
 
 ---
 
