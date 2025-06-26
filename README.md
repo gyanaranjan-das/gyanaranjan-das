@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/gyanaranjan-das/gyanaranjan-das/main/ChatGPT Image Jun 21, 2025, 08_14_37 AM.png" alt="Gyanaranjan Das Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Transforming+data+into+insights.;Engineering+AI-powered+solutions.;Solving+real-world+problems+with+ML.;Crafting+enterprise+tools+with+SAP+ABAP" alt="Typing SVG" />
+</p>
 
 ### Hi 👋, I'm Gyanaranjan Das
 
