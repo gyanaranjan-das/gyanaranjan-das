@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer+in+the+Making;🤖+Crafting+AI+that+Thinks+and+Learns;💡+Turning+Ideas+into+Impactful+Code;🛠️+Building+Scalable+Digital+Solutions;🎓+B.Tech+CS+@+Parul+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer+in+the+Making;🤖+Crafting+AI+that+Thinks+and+Learns;💡+Turning+Ideas+into+Impactful+Code;🛠️+Building+Scalable+Digital+Solutions;🎓+B.Tech+CSE+@+Parul+University" alt="Typing SVG" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Gyanaranjan Das</h2>
