@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gyanaranjan-das/gyanaranjan-das/main/ChatGPT%20Image%20Jun%2021,%202025,%2008_14_37%20AM.png" alt="Gyanaranjan Das Banner" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer+in+the+Making;🤖+Crafting+AI+that+Thinks+and+Learns;💡+Turning+Ideas+into+Impactful+Code;🛠️+Building+Scalable+Digital+Solutions;🎓+B.Tech+CS+@+Parul+University" alt="Typing SVG" />
