@@ -136,15 +136,4 @@
 
 ---
 
-### 🔥 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanaranjan-das&show_icons=true&theme=radical" alt="Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanaranjan-das&theme=radical" alt="Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanaranjan-das&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
 <p align="center"> <a href="mailto:dasgyanaranjan835@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-dasgyanaranjan835@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /> </a> &nbsp; <a href="https://www.linkedin.com/in/gyanaranjan-das-b43420298/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Gyanaranjan%20Das-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> &nbsp; <a href="https://github.com/gyanaranjan-das" target="_blank"> <img src="https://img.shields.io/badge/GitHub-gyanaranjan--das-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /> </a> &nbsp; <a href="https://www.instagram.com/gyanaranjan.19/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@gyanaranjan__das__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /> </a> </p>
