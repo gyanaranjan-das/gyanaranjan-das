@@ -93,24 +93,6 @@
 
 ---
 
-### 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gyanaranjan-das&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🎵 Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31aqzpb5w4juyvmuhvsm2gjd5ala">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31aqzpb5w4juyvmuhvsm2gjd5ala&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-  </a>
-</p>
-
----
-
 ### 📰 Latest Blog Posts
 
 <!-- Replace with your blog RSS feed link -->
