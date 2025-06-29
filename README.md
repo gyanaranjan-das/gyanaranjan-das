@@ -1,108 +1,121 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gyanaranjan-das/gyanaranjan-das/main/ChatGPT Image Jun 21, 2025, 08_14_37 AM.png" alt="Gyanaranjan Das Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/gyanaranjan-das/gyanaranjan-das/main/ChatGPT%20Image%20Jun%2021,%202025,%2008_14_37%20AM.png" alt="Gyanaranjan Das Banner" width="100%" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Transforming+data+into+insights.;Engineering+AI-powered+solutions.;Solving+real-world+problems+with+ML.;Crafting+enterprise+tools+with+SAP+ABAP" alt="Typing SVG" />
 </p>
 
-### Hi 👋, I'm Gyanaranjan Das
+<h2 align="center">Hi 👋, I'm Gyanaranjan Das</h2>
 
-📍 Vadodara, Gujarat, India  
-🎓 B.Tech CSE @ Parul Institute of Engineering and Technology (2023–2027)  
-💻 Passionate Developer | AI/ML Explorer | Web Dev Enthusiast  
+<p align="center">
+📍 Vadodara, India  
+🎓 B.Tech CSE @ Parul University (2023–2027)  
+💻 Full-Stack Developer | AI Engineer | Tech Explorer  
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎓 I'm a Computer Science Engineering student currently pursuing a B.Tech CSE (Industry Embedded Program in association with SAP) at Parul University.
-
-🚀 I'm an enthusiastic and driven techie always on the hunt for real-world challenges. With solid foundations in **Python**, **Java**, and **Web Development**, I thrive on solving problems and building cool stuff.
-
-💡 Currently exploring the world of **AI & Machine Learning** while leveling up my dev skills every day.
+🎓 CSE student under SAP-embedded program at Parul University  
+🔭 Working on Full-Stack + AI projects  
+📈 Focused on solving real-world problems using intelligent systems  
+🧠 Building enterprise tools, learning every single day  
+🎯 Looking for collaborative, innovative, and challenging opportunities
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" />
+**Languages**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
 </p>
 
-### 🧠 AI / ML Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" alt="TensorFlow" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" alt="PyTorch" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" height="40" width="40" alt="Scikit-Learn" />
+**Frontend**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40" alt="CSS3" />
+
 </p>
 
+**Backend**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+</p>
 
-**Tools & Platforms:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" /> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" height="40" width="40" alt="Google Colab" /> 
+**AI / ML**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" height="40" />
+</p>
 
-**Core Concepts:**  
-`OOP` `DBMS` `APIs` `DSA`
+**Databases & Cloud**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+</p>
 
----
-
-### 📚 Projects
-
-
----
-
-### 🌟 Experience
-
-
-🤝 **Rotaract Club – Parul University**  
-> Participated in community service, tech workshops, and awareness drives.
-
----
-
-### 💪 Core Strengths
-
-🔍 Problem Solving & Logical Thinking  
-📊 Data Analysis & Automation  
-💬 Communication & Teamwork  
-📌 Leadership & Decision-Making
-
----
-
-### 🌐 Languages
-
-🇬🇧 English  🇮🇳 Hindi  🇮🇳 Gujarati
+**Tools**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" height="40" />
+</p>
 
 ---
 
-### Hobbies & Interests
-
-- 💻🔧 Tech Experimentation
-- 📚 Reading
-- 🎬 Movies
-- 🎮 Gaming
-
----
-
-### 📫 Let’s Connect!
-
-## 📬 Contact Me
+### 🔥 GitHub Stats & Streaks
 
 <p align="center">
-  <a href="mailto:dasgyanaranjan835@gmail.com"><img src="https://img.shields.io/badge/email-@dasgyanaranjan835-blue?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gyanaranjan-das-b43420298/"><img src="https://img.shields.io/badge/linkedin-Profile-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/gyanaranjan-das"><img src="https://img.shields.io/github/followers/gyanaranjan-das?label=Follow&style=social" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gyanaranjan-das&show_icons=true&theme=radical" alt="Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanaranjan-das&theme=radical" alt="Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanaranjan-das&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-⭐ *Thanks for visiting! Check out my repositories and feel free to drop a message — always open to collaboration and learning!*
+### 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gyanaranjan-das&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 🎵 Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31aqzpb5w4juyvmuhvsm2gjd5ala">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31aqzpb5w4juyvmuhvsm2gjd5ala&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
+  </a>
+</p>
+
+---
+
+### 📰 Latest Blog Posts
+
+<!-- Replace with your blog RSS feed link -->
+<!-- GitHub automatically pulls blog data using GitHub Actions or feeds -->
+
+```markdown
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
