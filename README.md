@@ -94,43 +94,45 @@
 ---
 #### Data Handling & Tools  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/kafka-original.svg" height="40" alt="Kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/kafka-original.svg" height="40" width="40" alt="Kafka" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_spark/spark-original.svg" height="40" alt="Spark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_spark/spark-original.svg" height="40" width="40" alt="Spark" />
 </p>
+
+
 
 #### Programming & Software Engineering  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40 alt="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width = "40" alt="Docker" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" width = "40" alt="Kubernetes" />
 </p>
 
 #### AI Frameworks & Tools  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" alt="TensorFlow" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width = "40" alt="PyTorch" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-Learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" width="40" alt="Scikit-Learn" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width ="40" alt="OpenCV" />
 </p>
 
 ---
 
-<p align="center"> <a href="mailto:dasgyanaranjan835@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-dasgyanaranjan835@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /> </a> &nbsp; <a href="https://www.linkedin.com/in/gyanaranjan-das-b43420298/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Gyanaranjan%20Das-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> &nbsp; <a href="https://github.com/gyanaranjan-das" target="_blank"> <img src="https://img.shields.io/badge/GitHub-gyanaranjan--das-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /> </a> &nbsp; <a href="https://www.instagram.com/gyanaranjan.19/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@gyanaranjan__das__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /> </a> </p>
+<p align="center"> <a href="mailto:dasgyanaranjan835@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-dasgyanaranjan835@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /> </a> &nbsp; <a href="https://www.linkedin.com/in/gyanaranjan-das/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Gyanaranjan%20Das-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> &nbsp; <a href="https://github.com/gyanaranjan-das" target="_blank"> <img src="https://img.shields.io/badge/GitHub-gyanaranjan--das-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /> </a> &nbsp; <a href="https://www.instagram.com/gyanaranjan.19/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@gyanaranjan__das__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /> </a> </p>
