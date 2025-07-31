@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gyanaranjan+Das;AI+Engineer+in+the+Making;SAP+Fiori/UI5+Developer;Tech+Explorer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 B.Tech CSE Student | AI Enthusiast | SAP Developer | Problem Solver</h3>
+<h3 align="center">AI Enthusiast | SAP Developer | Problem Solver</h3>
 
 <!-- Social Links & Contact -->
 <p align="center">
@@ -111,9 +111,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanaranjan-das&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyanaranjan-das&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
-</div>
+
 
 ---
 
