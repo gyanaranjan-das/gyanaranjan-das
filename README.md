@@ -28,7 +28,7 @@
 </h2>
 
 ```yaml
-name: Gyanaranjan Das
+Name: Gyanaranjan Das
 currently_learning: [AI/ML, Quantum Computing, System Design]
 fields_of_interest: [Artificial Intelligence, Machine Learning, Quantum Computing, System Architecture]
 goal: To become a world-class AI Engineer & Innovator
@@ -118,7 +118,10 @@ goal: To become a world-class AI Engineer & Innovator
   <li>📚 Competitive Programming & Algorithms</li>
 </ul>
 
-🤝 <strong>Let's Connect & Collaborate!</strong><br>
+---
+
+🤝 <strong>Let's Connect & Collaborate!</strong>
+<br>
 💌 <strong>Reach Out To Me:</strong>
 <ul>
   <li>Internship Opportunities</li>
