@@ -1,83 +1,80 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gyanaranjan+Das;AI+Engineer+in+the+Making;SAP+Fiori/UI5+Developer;Tech+Explorer" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Gyanaranjan+Das;An+AI+Engineer+in+the+Making!;Lover+of+Code%2C+Logic+%26+Learning" alt="Typing SVG" />
+</p>
 
-<h3 align="center">AI Enthusiast | SAP Developer | Problem Solver</h3>
-
-<!-- Social Links & Contact -->
+---
 <p align="center">
   <a href="https://github.com/gyanaranjan-das" target="_blank">
     <img src="https://img.shields.io/github/followers/gyanaranjan-das?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=black" />
   </a>
-  <a href="https://www.linkedin.com/in/gyanaranjan-das" target="_blank">
+  <a href="https://linkedin.com/in/gyanaranjan-das" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dasgyanaranjan835@gmail.com">
+  <a href="mailto:dasgyanaranjan835@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:9106674393">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
-<!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gyanaranjan-das&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
 
-## 🎯 About Me
+<h2 align="center">
+  👨‍💻 About Me
+</h2>
 
-<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="AI Thinking Gif"/>
-
-🎓 **B.Tech in Computer Science Engineering** – *Parul University, Vadodara* (2023–2027)  
-📍 **Location:** Vadodara, Gujarat, India  
-🧠 **Aiming to be an AI Engineer** | Passionate about SAP UI/UX and intelligent systems  
-💬 Tech Lover exploring ML, Deep Learning, and Frontend SAP Development
-
-### 🌟 Quick Highlights:
-- 💡 Building intuitive **SAP Fiori/UI5 applications** on SAP BTP
-- 🤖 Exploring **Machine Learning** & **Deep Learning** techniques
-- 📊 Love solving data problems and making smart systems
-- 🧠 Constant learner with a passion for impactful tech
+```yaml
+name: Gyanaranjan Das
+currently_learning: [AI/ML, Quantum Computing, System Design]
+fields_of_interest: [Artificial Intelligence, Machine Learning, Quantum Computing, System Architecture]
+goal: To become a world-class AI Engineer & Innovator
+```
 
 ---
 
-## 🛠️ Tech Arsenal
+<h2 align="center">
+  🚀 Tech Stack
+</h2>
 
-### 💻 Programming Languages & Tools
-<p align="left">
-  <!-- Icons for the languages you mentioned -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql,lisp,r" />
+<h3>👨‍💻 Programming Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LISP-000000?style=for-the-badge&logo=lisp&logoColor=white"/>
 </p>
 
-**Languages I specialize in for AI/ML and system design:**  
-- Python (AI/ML, libraries like TensorFlow, PyTorch, Scikit-Learn)  
-- C++ (performance and system-level programming)  
-- Java (enterprise systems and backend logic)  
-- JavaScript (frontend, Node.js for ML web apps)  
-- SQL (database querying and management)   
-- R (statistical analysis and data science)  
+<h3>🧠 AI/ML Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
----
+<h3>⚛️ Quantum Computing</h3>
+<p>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PennyLane-000000?style=for-the-badge&logo=quantum-computing&logoColor=white"/>
+</p>
 
-### 🧠 AI & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<h3>🧰 Tools & Technologies</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
-
-### 💼 SAP & Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/SAP-Fiori%2FUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20BTP-Cloud%20Platform-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-</p>
-
----
-
 ### ☁️ Cloud, Databases & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes" />
@@ -100,66 +97,39 @@
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">
+  🔥 GitHub Stats
+</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gyanaranjan-das&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanaranjan-das&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanaranjan-das&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-
-
----
-
-## 🏆 Certifications & Achievements
-
-<details>
-<summary><b>🎖️ Click to view certifications</b></summary>
-
-### 🎓 AI & SAP Certifications
-
-- **Geni AI Workshop Certificate**  
-  _Completed a hands-on workshop on AI fundamentals and applications._  
-
-- **SAP Certified Associate – Back-End Developer (ABAP Cloud)**  
-  _Official SAP certification for Back-End Development on ABAP Cloud._  
-
-- **Python for Everybody** – Coursera  
-- **Deep Learning Specialization** – DeepLearning.AI *(in progress)*  
-- **Software Engineering Basics** – Infosys Springboard
-
-</details>
-
-## 🎯 Current Focus
-
-- 🔭 Learning **Advanced Machine Learning**, **SAP UI5**, and **NLP**
-- 🌱 Exploring **Cloud Platforms** and **SAP Integration**
-- 👯 Looking to collaborate on **AI/ML + SAP** hybrid projects
-- 💬 Hit me up for **SAP Fiori**, **Python AI**, or **cool frontend hacks**
-
----
-## 🤝 Let's Connect & Collaborate!
-
-💌 Reach Out To Me
-
-🌟 Open for:  
-- Internship Opportunities  
-- Collaborative Projects  
-- Open Source Contributions  
-- Technical Discussions  
-- Mentorship & Learning
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gyanaranjan-das&show_icons=true&theme=radical" alt="Gyan's GitHub stats"/>
   <br>
-  <em><b>I enjoy meeting tech-minded people</b> – drop a DM and say <b>hello!</b> 😊</em>
-  <br><br>
-  ⭐️ <b>Star this profile if it helped you</b>
-  <br>
-  🤝 <b>Let’s build something amazing together!</b>
-</div>
+</p>
+
+---
+
+<h2 align="center">
+  📌 Currently Focusing On
+</h2>
+<ul>
+  <li>🧠 Deep Learning Architectures</li>
+  <li>🧪 Quantum Algorithms & Qiskit</li>
+  <li>🧩 System Design (High-Level Architecture)</li>
+  <li>📚 Competitive Programming & Algorithms</li>
+</ul>
+
+🤝 <strong>Let's Connect & Collaborate!</strong><br>
+💌 <strong>Reach Out To Me:</strong>
+<ul>
+  <li>Internship Opportunities</li>
+  <li>Collaborative Projects</li>
+  <li>Open Source Contributions</li>
+  <li>Technical Discussions</li>
+  <li>Mentorship & Learning</li>
+</ul>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyanaranjan-das&theme=tokyonight" />
+</p>
