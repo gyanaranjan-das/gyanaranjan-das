@@ -98,17 +98,6 @@ goal: To become a world-class AI Engineer & Innovator
 ---
 
 <h2 align="center">
-  🔥 GitHub Stats
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanaranjan-das&show_icons=true&theme=radical" alt="Gyan's GitHub stats"/>
-  <br>
-</p>
-
----
-
-<h2 align="center">
   📌 Currently Focusing On
 </h2>
 <ul>
@@ -133,6 +122,3 @@ goal: To become a world-class AI Engineer & Innovator
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyanaranjan-das&theme=tokyonight" />
-</p>
