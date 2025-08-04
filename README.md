@@ -118,7 +118,7 @@ goal: To become a world-class AI Engineer & Innovator
   <li>Open Source Contributions</li>
   <li>Technical Discussions</li>
   <li>Mentorship & Learning</li>
-  <li>fvbfj</li>
+  
 </ul>
 
 ---
