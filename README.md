@@ -101,10 +101,7 @@ goal: To become a world-class AI Engineer & Innovator
   📌 Currently Focusing On
 </h2>
 <ul>
-  <li>🧠 Deep Learning Architectures</li>
-  <li>🧪 Quantum Algorithms & Qiskit</li>
-  <li>🧩 System Design (High-Level Architecture)</li>
-  <li>📚 Competitive Programming & Algorithms</li>
+  <li>Java with backend</li>
 </ul>
 
 ---
