@@ -102,6 +102,7 @@ goal: To become a world-class AI Engineer & Innovator
 </h2>
 <ul>
   <li>Java with backend</li>
+  <li>Preparing For Hackathon</li>
 </ul>
 
 ---
