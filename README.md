@@ -100,9 +100,10 @@ goal: To become a world-class AI Engineer & Innovator
 <h2 align="center">
   📌 Currently Focusing On
 </h2>
-<ul>
-  <li>Java with backend</li>
-  <li>Preparing For Hackathon</li>
+<ul> 
+<li>Java Full-Stack Development (JSP, Servlets, MySQL, Tomcat)</li>  
+<li>Building internship-ready projects (Online BookStore, Student Management System)</li>  
+<li>Strengthening problem-solving & backend development</li> 
 </ul>
 
 ---
