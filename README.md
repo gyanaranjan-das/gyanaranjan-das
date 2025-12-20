@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hey!+I'm+Gyanaranjan+Das;Java+Full+Stack+Developer+%7C+B.Tech+CSE;AI+%26+System+Architecture+Enthusiast;Always+Learning+%26+Building+Cool+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hey!+I'm+Gyanaranjan+Das;PythonFull+Stack+Developer+%7C+B.Tech+CSE;AI+%26+System+Architecture+Enthusiast;Always+Learning+%26+Building+Cool+Projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ```yaml
 name: Gyanaranjan Das
-currently_learning: [Java Full Stack Development, Spring Boot, MySQL]
+currently_learning: [Python]
 fields_of_interest: [Full-Stack Development, Artificial Intelligence, Machine Learning, System Design]
 goal: To build scalable software systems and grow into an AI & System Architecture Innovator
 ```
@@ -42,13 +42,7 @@ goal: To build scalable software systems and grow into an AI & System Architectu
 
 <h3>👨‍💻 Programming Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LISP-000000?style=for-the-badge&logo=lisp&logoColor=white"/>
 </p>
 
 
@@ -87,7 +81,7 @@ goal: To build scalable software systems and grow into an AI & System Architectu
   📌 Currently Focusing On
 </h2>
 <ul> 
-<li>Java Full-Stack Development (JSP, Servlets, MySQL, Tomcat)</li>  
+<li>Python Full Stack</li>  
 <li>Building internship-ready projects (Online BookStore, Student Management System)</li>  
 <li>Strengthening problem-solving & backend development</li> 
 </ul>
