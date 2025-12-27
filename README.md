@@ -13,16 +13,7 @@
   <a href="mailto:dasgyanaranjan835@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:9106674393">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gyanaranjan-das&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</p>
-
-
 <h2 align="center">
   👨‍💻 About Me
 </h2>
