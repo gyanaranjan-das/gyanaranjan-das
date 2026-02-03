@@ -57,8 +57,8 @@
 📂 Repo: https://github.com/gyanaranjan-das/task-manager  
 > A production-style task management system with JWT authentication, role-based access, and RESTful APIs built using React, Node.js, Express, and MongoDB.
 
-### 🔐 Authentication System API
-📂 Repo: https://github.com/gyanaranjan-das/auth-system  
+### 🔐 IDENTITYX
+📂 Repo: https://github.com/gyanaranjan-das/IdentityX 
 > Secure backend authentication service featuring JWT-based authorization, protected routes, and role-based access control.
 
 ### 🌐 Personal Portfolio
