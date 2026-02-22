@@ -112,7 +112,6 @@
 ## 🏆 Highlights
 - 🥇 Open Source Contributor  
 - 🔥 100+ DSA Problems Solved [![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CodeWithGyan1/)
-- 🚀 Built & Deployed Multiple Full-Stack Applications  
 - 🧩 Focused on Clean Architecture & Scalable Systems  
 
 ---
