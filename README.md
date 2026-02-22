@@ -52,19 +52,11 @@
 
 ## 📌 Featured Projects
 
-### 🗂️ Full Stack Task Manager (MERN)
-🔗 Live Demo: https://your-demo-link.com  
-📂 Repo: https://github.com/gyanaranjan-das/task-manager  
-> A production-style task management system with JWT authentication, role-based access, and RESTful APIs built using React, Node.js, Express, and MongoDB.
+### 🗂️ Kanban Board
+🔗 Live Demo: coming-soon
+📂 Repo: https://github.com/gyanaranjan-das/Kanban-Board
+> Description - comming soon
 
-### 🔐 IDENTITYX
-📂 Repo: https://github.com/gyanaranjan-das/IdentityX 
-> Secure backend authentication service featuring JWT-based authorization, protected routes, and role-based access control.
-
-### 🌐 Personal Portfolio
-🔗 Live Site: https://www.gyanaranjandas.me  
-📂 Repo: https://github.com/gyanaranjan-das/portfolio  
-> Responsive developer portfolio built with React and Tailwind CSS, deployed for performance and cross-device compatibility.
 
 ---
 
