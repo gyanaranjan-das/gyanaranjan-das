@@ -55,7 +55,7 @@
 ### 🗂️ Portfolio website
 🔗 Live Demo: https://www.gyanaranjandas.me/
 
-📂 Repo: https://github.com/gyanaranjan-das/Porfolio
+📂 Repo: https://github.com/gyanaranjan-das/Portfolio
 > Description - comming soon
 
 ### 🗂️ Kanban Board
