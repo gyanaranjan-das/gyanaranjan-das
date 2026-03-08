@@ -52,6 +52,12 @@
 
 ## 📌 Featured Projects
 
+### 🗂️ Portfolio website
+🔗 Live Demo: https://www.gyanaranjandas.me/
+
+📂 Repo: https://github.com/gyanaranjan-das/Porfolio
+> Description - comming soon
+
 ### 🗂️ Kanban Board
 🔗 Live Demo: coming-soon
 
