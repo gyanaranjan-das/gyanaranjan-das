@@ -52,9 +52,9 @@
 
 ## 📌 Featured Projects
 
-### 🗂️ Portfolio website
-🔗 Live Demo: https://www.gyanaranjandas.me/
-
+### 🗂️ Spendly
+🔗 Live Demo: [https://www.gyanaranjandas.me/
+](https://spendly-nine-phi.vercel.app/)
 📂 Repo: https://github.com/gyanaranjan-das/Portfolio
 > Description - comming soon
 
