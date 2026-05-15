@@ -55,8 +55,8 @@
 ### 🗂️ Spendly
 🔗 Live Demo: [https://www.gyanaranjandas.me/
 ](https://spendly-nine-phi.vercel.app/)
-📂 Repo: https://github.com/gyanaranjan-das/Portfolio
-> Description - comming soon
+📂 Repo: https://github.com/gyanaranjan-das/Spendly
+> Description - Take Control Of Your Finances
 
 ### 🗂️ Kanban Board
 🔗 Live Demo: coming-soon
