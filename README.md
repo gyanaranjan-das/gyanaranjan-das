@@ -55,15 +55,21 @@
 ### 🗂️ Spendly
 🔗 Live Demo: [https://www.gyanaranjandas.me/
 ](https://spendly-nine-phi.vercel.app/)
+
 📂 Repo: https://github.com/gyanaranjan-das/Spendly
 > Description - Take Control Of Your Finances
 
-### 🗂️ Kanban Board
+### 🗂️ CodeSphere
 🔗 Live Demo: coming-soon
 
-📂 Repo: https://github.com/gyanaranjan-das/Kanban-Board
+📂 Repo: https://github.com/gyanaranjan-das/CodeSphere
 > Description - comming soon
 
+### 🗂️ HireSight
+🔗 Live Demo: coming-soon
+
+📂 Repo: https://github.com/gyanaranjan-das/HireSight
+> Description - comming soon
 
 ---
 
