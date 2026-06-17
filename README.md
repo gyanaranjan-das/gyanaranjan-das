@@ -53,8 +53,7 @@
 ## 📌 Featured Projects
 
 ### 🗂️ Spendly
-🔗 Live Demo: [https://www.gyanaranjandas.me/
-](https://spendly-nine-phi.vercel.app/)
+🔗 Live Demo: [[https://spendly-nine-phi.vercel.app/](https://spendly-nine-phi.vercel.app/)]
 
 📂 Repo: https://github.com/gyanaranjan-das/Spendly
 > Description - Take Control Of Your Finances
