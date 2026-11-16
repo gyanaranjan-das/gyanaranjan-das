@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/banner.svg"
+    src="download.svg"
     width="100%"
     alt="Gyanaranjan Das"
   />
